@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.2.0'/>
+ <uml:Actor xmi:type='uml:Actor' xmi:uuid='urn:uuid:64e0b8a5-7f79-4e68-ba32-ab3c33ae50a0'
+   isAbstract='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='Administrador'
+   visibility='public'>
+  <generalization xmi:type='uml:Generalization' xmi:uuid='urn:uuid:97dcaf6d-5997-4315-a75a-7013358ca94a'
+    isSubstitutable='true'>
+   <general href='urn:uuid:1d638b1a-b5e0-45e7-bb0b-c2bbf5be6628'/>
+  </generalization>
+ </uml:Actor>
+</xmi:XMI>

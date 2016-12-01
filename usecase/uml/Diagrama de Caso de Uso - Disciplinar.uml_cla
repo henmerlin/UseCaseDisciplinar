@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.2.0'/>
+ <uml:Class xmi:type='uml:Class' xmi:uuid='urn:uuid:a1318882-291b-4225-be36-ae79775c02ad'
+   isAbstract='false'
+   isActive='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='Diagrama de Caso de Uso - Disciplinar'
+   visibility='public'>
+  <useCase href='urn:uuid:08ca277a-f48c-4134-84e6-60388c79d991'/>
+  <useCase href='urn:uuid:781152d8-9b60-4f15-ac20-080edcbd7667'/>
+  <useCase href='urn:uuid:2f43c34b-ffc4-486f-bff5-851bd72cdc58'/>
+  <useCase href='urn:uuid:29373e3a-6a85-4f36-a2de-a6211fc11991'/>
+  <useCase href='urn:uuid:f8f91371-afa0-41f5-806a-7ffb16513bd9'/>
+  <useCase href='urn:uuid:be7a99c7-9195-44b8-aae6-67742bbdcd00'/>
+  <useCase href='urn:uuid:bce0ea09-5c4f-4963-b553-f258c431fb5a'/>
+  <useCase href='urn:uuid:dbf06e82-412f-4e99-b955-dbb3c635768b'/>
+  <useCase href='urn:uuid:a410b85b-95a3-4fdf-a286-bf2ca80438e8'/>
+  <useCase href='urn:uuid:f853d7d1-57e7-4969-bd5b-08772992b5e1'/>
+  <ownedAttribute xmi:type='uml:Property' xmi:uuid='urn:uuid:30e83d62-2f2a-42b0-bc30-b2bb17a3781c'
+    isDerived='false'
+    isDerivedUnion='false'
+    isID='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    aggregation='none'>
+   <type href='urn:uuid:1d638b1a-b5e0-45e7-bb0b-c2bbf5be6628'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:type='uml:Property' xmi:uuid='urn:uuid:59d411da-ecdd-4b9a-9462-13eb4d05e93d'
+    isDerived='false'
+    isDerivedUnion='false'
+    isID='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    aggregation='none'>
+   <type href='urn:uuid:2b4a9894-5a2e-494b-8d04-11c5b3714cfe'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:type='uml:Property' xmi:uuid='urn:uuid:0e075ab5-a803-4572-a3fd-8cdda762e3cb'
+    isDerived='false'
+    isDerivedUnion='false'
+    isID='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    aggregation='none'>
+   <type href='urn:uuid:64e0b8a5-7f79-4e68-ba32-ab3c33ae50a0'/>
+  </ownedAttribute>
+  <ownedComment xmi:type='uml:Comment' xmi:uuid='urn:uuid:81145bf7-1df2-43f4-9117-6366b8dd7cf1'
+    body='uml_uc:Subject'/>
+ </uml:Class>
+</xmi:XMI>

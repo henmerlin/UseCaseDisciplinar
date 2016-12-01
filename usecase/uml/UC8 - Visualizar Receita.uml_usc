@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.2.0'/>
+ <uml:UseCase xmi:type='uml:UseCase' xmi:uuid='urn:uuid:2f43c34b-ffc4-486f-bff5-851bd72cdc58'
+   isAbstract='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='UC8 - Visualizar Receita'
+   visibility='public'>
+  <subject href='urn:uuid:a1318882-291b-4225-be36-ae79775c02ad'/>
+  <extend xmi:type='uml:Extend' xmi:uuid='urn:uuid:3fbf9fe1-5d8d-4c4c-99d7-527598881524'>
+   <extendedCase href='urn:uuid:08ca277a-f48c-4134-84e6-60388c79d991'/>
+   <extensionLocation href='urn:uuid:63e3da14-a19e-4899-93d7-cfac43bf570e'/>
+  </extend>
+  <extend xmi:type='uml:Extend' xmi:uuid='urn:uuid:2b86d9d5-aaf9-4727-ad76-f89bbdf7325a'>
+   <extendedCase href='urn:uuid:3fc64182-8912-4685-a518-b13ab5b70281'/>
+   <extensionLocation href='urn:uuid:522bd4c3-e097-4c4c-8718-6ae79e6737d9'/>
+  </extend>
+  <extend xmi:type='uml:Extend' xmi:uuid='urn:uuid:bd5c61ac-d1e4-48fc-9d91-3491129ce366'>
+   <extendedCase href='urn:uuid:f853d7d1-57e7-4969-bd5b-08772992b5e1'/>
+   <extensionLocation href='urn:uuid:bea69527-5a59-47eb-a0df-49f3fc91e5cc'/>
+  </extend>
+  <extend xmi:type='uml:Extend' xmi:uuid='urn:uuid:74c3d29d-b938-4fd2-bedb-7e6fc5c6cc63'>
+   <extendedCase href='urn:uuid:29373e3a-6a85-4f36-a2de-a6211fc11991'/>
+   <extensionLocation href='urn:uuid:3f278676-a946-437a-9b7d-063b5e827e92'/>
+  </extend>
+ </uml:UseCase>
+</xmi:XMI>

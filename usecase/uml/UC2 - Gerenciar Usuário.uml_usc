@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.2.0'/>
+ <uml:UseCase xmi:type='uml:UseCase' xmi:uuid='urn:uuid:f8f91371-afa0-41f5-806a-7ffb16513bd9'
+   isAbstract='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='UC2 - Gerenciar Usuário'
+   visibility='public'>
+  <subject href='urn:uuid:a1318882-291b-4225-be36-ae79775c02ad'/>
+ </uml:UseCase>
+</xmi:XMI>

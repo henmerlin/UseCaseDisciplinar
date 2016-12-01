@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.2.0'/>
+ <uml:UseCase xmi:type='uml:UseCase' xmi:uuid='urn:uuid:dbf06e82-412f-4e99-b955-dbb3c635768b'
+   isAbstract='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='UC3 - Cadastrar Receita'
+   visibility='public'>
+  <subject href='urn:uuid:a1318882-291b-4225-be36-ae79775c02ad'/>
+  <extensionPoint xmi:type='uml:ExtensionPoint' xmi:uuid='urn:uuid:592cfbb6-a0b6-4e88-8d8f-fdeb14b2ed14'
+    isLeaf='false'
+    name='DefaultExtensionPoint'/>
+ </uml:UseCase>
+</xmi:XMI>

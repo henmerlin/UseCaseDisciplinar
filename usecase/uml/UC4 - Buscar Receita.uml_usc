@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.2.0'/>
+ <uml:UseCase xmi:type='uml:UseCase' xmi:uuid='urn:uuid:781152d8-9b60-4f15-ac20-080edcbd7667'
+   isAbstract='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='UC4 - Buscar Receita'
+   visibility='public'>
+  <subject href='urn:uuid:a1318882-291b-4225-be36-ae79775c02ad'/>
+  <extend xmi:type='uml:Extend' xmi:uuid='urn:uuid:f26e0ee6-4421-4b60-942e-d11031c466a1'>
+   <extendedCase href='urn:uuid:be7a99c7-9195-44b8-aae6-67742bbdcd00'/>
+   <extensionLocation href='urn:uuid:122858a7-c7d7-431c-b436-49f26236076e'/>
+  </extend>
+ </uml:UseCase>
+</xmi:XMI>
